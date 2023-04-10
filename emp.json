@@ -1,0 +1,30 @@
+ [
+    {  
+        "id":         "e123",
+        "name":       "sonoo",
+        "email":       "sonoo@gmail.com",   
+        "salary":      56000,
+        "editable" : false
+    } ,
+    {  
+        "id":         "e234",
+        "name":       "seema", 
+        "email":       "seema@gmail.com",  
+        "salary":      55500,
+        "editable" : false
+    },
+    {  
+        "id":         "e345",
+        "name":       "sahil",  
+        "email":       "sahil@gmail.com", 
+        "salary":      57700,
+        "editable" : false
+    },
+    {  
+        "id":         "e456",
+        "name":       "suhani",
+        "email":       "suhani@gmail.com",   
+        "salary":      58000,
+        "editable" : false
+    }    
+]
